@@ -76,3 +76,9 @@ https://ethereum.stackexchange.com/questions/11550/correct-syntax-using-web3-for
 
 htmlで文字の書き換え  
 http://www.pori2.net/js/DOM/2.html
+
+JSeclpseデバッグ  
+http://dotnsf.blog.jp/archives/1064464085.html
+
+導入  
+http://blog.potix.jp/2017/07/13/ethreum-contract-develop.html
